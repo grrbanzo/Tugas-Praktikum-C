@@ -1,1 +1,1 @@
-# Tugas-Praktikum-C,Jonathan Hizkya W
+# Tugas-Praktikum-C
